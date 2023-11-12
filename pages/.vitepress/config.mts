@@ -6,7 +6,7 @@ export default defineConfig({
   description: "mitsu-yuki's page",
   lang: 'ja-JP',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico'}]
+    ['link', { rel: 'icon', href: '/pages/favicon.ico'}]
   ],
 
   base: '/pages/',
