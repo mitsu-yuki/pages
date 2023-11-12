@@ -3,5 +3,8 @@
     "docs:dev": "vitepress dev pages",
     "docs:build": "vitepress build pages",
     "docs:preview": "vitepress preview pages"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.25"
   }
 }
