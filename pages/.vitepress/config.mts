@@ -10,6 +10,7 @@ export default defineConfig({
   ],
 
   base: '/pages/',
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
