@@ -13,8 +13,9 @@ Birth: 1998/01/05
 Locate: Tokyo, JP  
 Work: Embbeded Network Enginner  
 
-<details><summary>More information</summary>
+<details><summary class="font-bold">More information</summary>
 
 :tada:
 
 </details>
+
