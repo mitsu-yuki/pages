@@ -1,9 +1,10 @@
 ---
-laylout: hero
-navbar: false
+laylout: home
 sidebar: false
 lastUpdated: true
-footer: false
+aside: false
+
+title: Profile
 ---
 
 # Profile
